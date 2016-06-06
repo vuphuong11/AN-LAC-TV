@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HSoThueDTu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue">
+	<HSoKhaiThue id="ID_1">
+		<TTinChung>
+			<TTinDVu>
+				<maDVu>HTKK</maDVu>
+				<tenDVu>HTKK</tenDVu>
+				<pbanDVu>3.3.0</pbanDVu>
+				<ttinNhaCCapDVu></ttinNhaCCapDVu>
+			</TTinDVu>
+			<TTinTKhaiThue>
+				<TKhaiThue>
+					<maTKhai>03</maTKhai>
+					<tenTKhai>TỜ KHAI QUYẾT TOÁN THUẾ THU NHẬP DOANH NGHIỆP (Mẫu số 03/TNDN)</tenTKhai>
+					<moTaBMau>(Ban hành kèm theo Thông tư số 151/2014/TT-BTC  ngày 10/10/2014 của  Bộ Tài chính)</moTaBMau>
+					<pbanTKhaiXML>2.0.7</pbanTKhaiXML>
+					<loaiTKhai>B</loaiTKhai>
+					<soLan>1</soLan>
+					<KyKKhaiThue>
+						<kieuKy>Y</kieuKy>
+						<kyKKhai>2009</kyKKhai>
+						<kyKKhaiTuNgay>01/01/2009</kyKKhaiTuNgay>
+						<kyKKhaiDenNgay>31/12/2009</kyKKhaiDenNgay>
+						<kyKKhaiTuThang/>
+						<kyKKhaiDenThang/>
+					</KyKKhaiThue>
+					<maCQTNoiNop></maCQTNoiNop>
+					<tenCQTNoiNop></tenCQTNoiNop>
+					<ngayLapTKhai>2015-02-14</ngayLapTKhai>
+					<GiaHan>
+						<maLyDoGiaHan></maLyDoGiaHan>
+						<lyDoGiaHan></lyDoGiaHan>
+					</GiaHan>
+					<nguoiKy>Nguyễn Thiện Duy</nguoiKy>
+					<ngayKy>2015-02-07</ngayKy>
+					<nganhNgheKD>Nuôi trồng, sản xuất, gia công, chế biến nông lâm thuỷ hải sản, thực phẩm ăn liền</nganhNgheKD>
+				</TKhaiThue>
+				<NNT>
+					<mst>2100346855</mst>
+					<tenNNT>CÔNG TY TNHH HẢI SẢN AN LẠC - TRÀ VINH</tenNNT>
+					<dchiNNT>20 Lô E KCN Long Đức</dchiNNT>
+					<phuongXa/>
+					<maHuyenNNT></maHuyenNNT>
+					<tenHuyenNNT>Tp.Trà Vinh</tenHuyenNNT>
+					<maTinhNNT></maTinhNNT>
+					<tenTinhNNT>Trà Vinh</tenTinhNNT>
+					<dthoaiNNT></dthoaiNNT>
+					<faxNNT></faxNNT>
+					<emailNNT></emailNNT>
+				</NNT>
+			</TTinTKhaiThue>
+		</TTinChung>
+		<CTieuTKhaiChinh>
+			<tieuMucHachToan>1052</tieuMucHachToan>
+			<doanhNghiepCoQuyMoVuaVaNho>1</doanhNghiepCoQuyMoVuaVaNho>
+			<doanhNghiepCoCSoHToanPThuoc>0</doanhNghiepCoCSoHToanPThuoc>
+			<doanhNghiepKeKhaiTTinLienKet>0</doanhNghiepKeKhaiTTinLienKet>
+			<ct_04_ma></ct_04_ma>
+			<ct_04_ten></ct_04_ten>
+			<ct_05>0.00</ct_05>
+			<ctA1>-3300000</ctA1>
+			<ctB1>1000000</ctB1>
+			<ctB2>0</ctB2>
+			<ctB3>0</ctB3>
+			<ctB4>1000000</ctB4>
+			<ctB5>0</ctB5>
+			<ctB6>0</ctB6>
+			<ctB7>0</ctB7>
+			<ctB8>0</ctB8>
+			<ctB9>0</ctB9>
+			<ctB10>0</ctB10>
+			<ctB11>0</ctB11>
+			<ctB12>-2300000</ctB12>
+			<ctB13>0</ctB13>
+			<ctB14>-2300000</ctB14>
+			<ctC1>0</ctC1>
+			<ctC2>0</ctC2>
+			<ctC3>0</ctC3>
+			<ctC3a>0</ctC3a>
+			<ctC3b>0</ctC3b>
+			<ctC4>0</ctC4>
+			<ctC5>0</ctC5>
+			<ctC6>0</ctC6>
+			<ctC7>0</ctC7>
+			<ctC8>0</ctC8>
+			<ctC9>0</ctC9>
+			<ctC9a>0</ctC9a>
+			<ctC10>0</ctC10>
+			<ctC11>0</ctC11>
+			<ctC12>0</ctC12>
+			<ctC13>0</ctC13>
+			<ctC14>0</ctC14>
+			<ctC15>0</ctC15>
+			<ctC16>0</ctC16>
+			<ctD>0</ctD>
+			<ctD1>0</ctD1>
+			<ctD2>0</ctD2>
+			<ctD3>0</ctD3>
+			<ctE>0</ctE>
+			<ctE1>0</ctE1>
+			<ctE2>0</ctE2>
+			<ctE3>0</ctE3>
+			<ctG>0</ctG>
+			<ctG1>0</ctG1>
+			<ctG2>0</ctG2>
+			<ctG3>0</ctG3>
+			<ctH>0</ctH>
+			<ctI>0</ctI>
+			<GiaHanNopThue>
+				<ctL1>0</ctL1>
+				<ctL2_ma></ctL2_ma>
+				<ctL2_ten></ctL2_ten>
+				<ctL3 xsi:nil="true"></ctL3>
+				<ctL4>0</ctL4>
+				<ctL5>0</ctL5>
+			</GiaHanNopThue>
+			<TienChamNop>
+				<CTM1>
+					<soNgay>0</soNgay>
+					<tuNgay>2010-02-01</tuNgay>
+					<denNgay xsi:nil="true"></denNgay>
+				</CTM1>
+				<ctM2>0</ctM2>
+			</TienChamNop>
+			<TaiLieu_Guikem>
+			</TaiLieu_Guikem>
+		</CTieuTKhaiChinh>
+		<PLuc>
+			<PL01_KHBS>
+				<NDUNGKHAIBOSUNGDIEUCHINH>
+					<DieuChinhTang>
+						<KHBSDieuChinhTang id="ID_1">
+							<ct2></ct2>
+							<ct3></ct3>
+							<ct4>0</ct4>
+							<ct5>0</ct5>
+							<ct6>0</ct6>
+						</KHBSDieuChinhTang>
+					</DieuChinhTang>
+					<DieuChinhGiam>
+						<KHBSDieuChinhGiam id="ID_1">
+							<ct2></ct2>
+							<ct3></ct3>
+							<ct4>0</ct4>
+							<ct5>0</ct5>
+							<ct6>0</ct6>
+						</KHBSDieuChinhGiam>
+					</DieuChinhGiam>
+					<TongHopDCTangGiamPNop>
+						<ct2>Tổng số thuế TNDN phải nộp</ct2>
+						<ct3>D</ct3>
+						<ct4>0</ct4>
+						<ct5>0</ct5>
+						<ct6>0</ct6>
+					</TongHopDCTangGiamPNop>
+				</NDUNGKHAIBOSUNGDIEUCHINH>
+				<PhatChamNop>
+					<soNgayNopCham>1781</soNgayNopCham>
+					<soTienPhatNopCham>0</soTienPhatNopCham>
+				</PhatChamNop>
+				<NOIDUNGGIAITHICH>
+					<soTienTraNSNN>0</soTienTraNSNN>
+					<quyetDinhHoanThueSo></quyetDinhHoanThueSo>
+					<ngay xsi:nil="true"></ngay>
+					<maCQT></maCQT>
+					<tenCQT></tenCQT>
+					<soNgayNhanDuocTienHoan>0</soNgayNhanDuocTienHoan>
+					<soTienChamNop>0</soTienChamNop>
+					<lyDoKhac></lyDoKhac>
+				</NOIDUNGGIAITHICH>
+			</PL01_KHBS>
+		</PLuc>
+	</HSoKhaiThue>
+</HSoThueDTu>
