@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><HSoThueDTu xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<HSoKhaiThue id="_NODE_TO_SIGN">
+		<TTinChung>
+			<TTinDVu>
+				<maDVu>HTKK</maDVu>
+				<tenDVu>HTKK</tenDVu>
+				<pbanDVu>3.4.0</pbanDVu>
+				<ttinNhaCCapDVu/>
+			</TTinDVu>
+			<TTinTKhaiThue>
+				<TKhaiThue>
+					<maTKhai>02</maTKhai>
+					<tenTKhai>TỜ KHAI THUẾ GTGT DÀNH CHO DỰ ÁN ĐẦU TƯ (Mẫu số 02/GTGT)</tenTKhai>
+					<moTaBMau>(Ban hành kèm theo Thông tư số 26/2015/TT-BTC ngày 27/02/2015 của Bộ Tài chính)</moTaBMau>
+					<pbanTKhaiXML>2.1.2</pbanTKhaiXML>
+					<loaiTKhai>C</loaiTKhai>
+					<soLan>0</soLan>
+					<KyKKhaiThue>
+						<kieuKy>Q</kieuKy>
+						<kyKKhai>3/2016</kyKKhai>
+						<kyKKhaiTuNgay>01/07/2016</kyKKhaiTuNgay>
+						<kyKKhaiDenNgay>30/09/2016</kyKKhaiDenNgay>
+						<kyKKhaiTuThang/>
+						<kyKKhaiDenThang/>
+					</KyKKhaiThue>
+					<maCQTNoiNop>81700</maCQTNoiNop>
+					<tenCQTNoiNop>Cục Thuế Tỉnh Trà Vinh</tenCQTNoiNop>
+					<ngayLapTKhai>2016-10-29</ngayLapTKhai>
+					<GiaHan>
+						<maLyDoGiaHan/>
+						<lyDoGiaHan/>
+					</GiaHan>
+					<nguoiKy>Nguyễn Thiện Duy</nguoiKy>
+					<ngayKy>2016-10-29</ngayKy>
+					<nganhNgheKD>CHẾ BIẾN THỦY HẢI SẢN</nganhNgheKD>
+				</TKhaiThue>
+				<NNT>
+					<mst>2100346855</mst>
+					<tenNNT>CÔNG TY TNHH HẢI SẢN AN LẠC - TRÀ VINH</tenNNT>
+					<dchiNNT>SỐ 20, LÔ E KCN LONG ĐỨC, TP TRÀ VINH, TỈNH TRÀ VINH</dchiNNT>
+					<phuongXa/>
+					<maHuyenNNT/>
+					<tenHuyenNNT>TP TRÀ VINH</tenHuyenNNT>
+					<maTinhNNT/>
+					<tenTinhNNT>TỈNH TRÀ VINH</tenTinhNNT>
+					<dthoaiNNT>0743746005</dthoaiNNT>
+					<faxNNT>0743746006</faxNNT>
+					<emailNNT>anlactravinh@gmail.com</emailNNT>
+				</NNT>
+			</TTinTKhaiThue>
+		</TTinChung>
+		<CTieuTKhaiChinh>
+			<tieuMucHachToan/>
+			<ct21>0</ct21>
+			<ct21a>0</ct21a>
+			<HHDVMuaVaoTrongKy>
+				<ct22>500089791</ct22>
+				<ct23>49234879</ct23>
+			</HHDVMuaVaoTrongKy>
+			<DieuChinhTangGTGTCacKyTruoc>
+				<ct24>0</ct24>
+				<ct25>0</ct25>
+			</DieuChinhTangGTGTCacKyTruoc>
+			<DieuChinhGiamGTGTCacKyTruoc>
+				<ct26>0</ct26>
+				<ct27>0</ct27>
+			</DieuChinhGiamGTGTCacKyTruoc>
+			<ct28>49234879</ct28>
+			<ct28a>0</ct28a>
+			<ct29>49234879</ct29>
+			<ct30a>0</ct30a>
+			<ct30>0</ct30>
+			<ct31>0</ct31>
+			<ct32>49234879</ct32>
+		</CTieuTKhaiChinh>
+	</HSoKhaiThue>
+<CKyDTu><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference URI="#_NODE_TO_SIGN"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>kMop5J38pspEkEt7FUhtiQoS1dc=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>YRja/loF9rJTxswTWRy6Cpm8UPKil63fp//ZMIYLPobN2FQic46KtpLv4FvWtK+0PHdq3lQw+ApK
+n9o55pJNbe5WvdUBJQsVWJYS0vxbRg6s159UJAm5y0coz3NXuOVZxBWZJK20Kg1Z7tLe8C5uJFHq
+ac82vvQOhnAABnckL9g=</ds:SignatureValue><ds:KeyInfo><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>t9smzfZJbmsao5YQaD6BpsWmDVpD4yfBXE+Jk7nky+ddHQBihJmk211nQ1Aw87y65bwNdk+0TDV1
+hPdztpj+SUoG7r3DsjB+jtBzetDlSXGgtI8j16GUI2x+SmRwvVHoWYIwo2/NuoxCAY4h5DoVb7Wn
+rpk/5tPZRoQ8cLNHcGM=</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue><ds:X509Data><ds:X509SubjectName>C=VN,ST=TRÀ VINH,L=Trà Vinh,CN=CÔNG TY TNHH HẢI SẢN AN LẠC - TRÀ VINH,UID=MST:2100346855</ds:X509SubjectName><ds:X509Certificate>MIIElzCCA3+gAwIBAgIQVAhefC1B01Y0HBB0Xm2nejANBgkqhkiG9w0BAQUFADBLMQswCQYDVQQG
+EwJWTjEoMCYGA1UEChMfQ29uZyB0eSBjbyBwaGFuIGNodSBreSBzbyBWSSBOQTESMBAGA1UEAxMJ
+U21hcnRTaWduMB4XDTE0MTEwNjAzNTgwMVoXDTE3MTEyNjA4MDIzNlowgY4xHjAcBgoJkiaJk/Is
+ZAEBDA5NU1Q6MjEwMDM0Njg1NTE3MDUGA1UEAwwuQ8OUTkcgVFkgVE5ISCBI4bqiSSBT4bqiTiBB
+TiBM4bqgQyAtIFRSw4AgVklOSDESMBAGA1UEBwwJVHLDoCBWaW5oMRIwEAYDVQQIDAlUUsOAIFZJ
+TkgxCzAJBgNVBAYTAlZOMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC32ybN9kluaxqjlhBo
+PoGmxaYNWkPjJ8FcT4mTueTL510dAGKEmaTbXWdDUDDzvLrlvA12T7RMNXWE93O2mP5JSgbuvcOy
+MH6O0HN60OVJcaC0jyPXoZQjbH5KZHC9UehZgjCjb826jEIBjiHkOhVvtaeumT/m09lGhDxws0dw
+YwIDAQABo4IBtTCCAbEwOAYIKwYBBQUHAQEELDAqMCgGCCsGAQUFBzABhhxodHRwOi8vb2NzcC5z
+bWFydHNpZ24uY29tLnZuMB0GA1UdDgQWBBR02WjWGD2AQEAcV7GEAEYm5MkTmjAMBgNVHRMBAf8E
+AjAAMB8GA1UdIwQYMBaAFGWFqfmJN53jCPgKSTSdrvql7nB0MG0GA1UdIARmMGQwYgYLKwYBBAGB
+7QMBCAMwUzAoBggrBgEFBQcCAjAcHhoAQwBQAFMAIAB2AGUAcgBzAGkAbwBuACAAMTAnBggrBgEF
+BQcCARYbaHR0cDovL3NtYXJ0c2lnbi5jb20udm4vY3BzMH0GA1UdHwR2MHQwcqAfoB2GG2h0dHA6
+Ly9jcmwuc21hcnRzaWduLmNvbS52bqJPpE0wSzESMBAGA1UEAwwJU21hcnRTaWduMSgwJgYDVQQK
+DB9Db25nIHR5IGNvIHBoYW4gY2h1IGt5IHNvIFZJIE5BMQswCQYDVQQGEwJWTjAOBgNVHQ8BAf8E
+BAMCA8gwKQYDVR0lBCIwIAYIKwYBBQUHAwIGCCsGAQUFBwMEBgorBgEEAYI3CgMMMA0GCSqGSIb3
+DQEBBQUAA4IBAQADXiM9oLoNaEA+OzkQaldo/GUXoofRZbX3aeOam9UdWhpdum00nWqNfRLZze0U
+Wu2E8NscOGHYqU6ZPqbZqufLY+jCSq9XiFj+vnSlA+LMc1WcO6cLm7zGjSCOBLL8FUDdfJlERUse
+gg+T/WoeNzTCWcfiaVvpnLQyNSe8JwNR0JMp/zgcoZlyKD98gFTFI/rjh7+iwEd8NEPFWoNkVv+W
+a4PcPqbdJXjLFRd21a2dASf4po87LAXB3bhMCtdVqXpWcna8bh5tIqqS+0b9UgnzJ2zPpmg2H8U7
+QbO58NaCsLJ7Voq/2f30eCKLsu8aLlbfpf0sDUVzqTlo+RBCNL2b</ds:X509Certificate></ds:X509Data></ds:KeyInfo></ds:Signature></CKyDTu></HSoThueDTu>
