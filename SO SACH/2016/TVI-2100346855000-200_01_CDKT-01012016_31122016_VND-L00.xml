@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><HSoThueDTu xmlns="http://kekhaithue.gdt.gov.vn/TKhaiThue" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<HSoKhaiThue id="_NODE_TO_SIGN">
+		<TTinChung>
+			<TTinDVu>
+				<maDVu>HTKK</maDVu>
+				<tenDVu>HTKK</tenDVu>
+				<pbanDVu>3.4.1</pbanDVu>
+				<ttinNhaCCapDVu/>
+			</TTinDVu>
+			<TTinTKhaiThue>
+				<TKhaiThue>
+					<maTKhai>402</maTKhai>
+					<tenTKhai>Báo cáo tài chính (TT200/2014/TT-BTC)</tenTKhai>
+					<moTaBMau>(Bộ Báo cáo tài chính theo Thông tư số 200/2014/TT-BTC của Bộ Tài chính)</moTaBMau>
+					<pbanTKhaiXML>2.1.8</pbanTKhaiXML>
+					<loaiTKhai>C</loaiTKhai>
+					<soLan>0</soLan>
+					<KyKKhaiThue>
+						<kieuKy>Y</kieuKy>
+						<kyKKhai>2016</kyKKhai>
+						<kyKKhaiTuNgay>01/01/2016</kyKKhaiTuNgay>
+						<kyKKhaiDenNgay>31/12/2016</kyKKhaiDenNgay>
+						<kyKKhaiTuThang/>
+						<kyKKhaiDenThang/>
+					</KyKKhaiThue>
+					<maCQTNoiNop>81700</maCQTNoiNop>
+					<tenCQTNoiNop>Cục Thuế Tỉnh Trà Vinh</tenCQTNoiNop>
+					<ngayLapTKhai>2017-02-28</ngayLapTKhai>
+					<GiaHan>
+						<maLyDoGiaHan/>
+						<lyDoGiaHan/>
+					</GiaHan>
+					<nguoiKy>Nguyễn Thiện Duy</nguoiKy>
+					<ngayKy>2016-12-31</ngayKy>
+					<nganhNgheKD>Mua bán, gia công, chế biến thủy hải sản</nganhNgheKD>
+				</TKhaiThue>
+				<NNT>
+					<mst>2100346855</mst>
+					<tenNNT>CTY TNHH HẢI SẢN AN LẠC - TRÀ VINH</tenNNT>
+					<dchiNNT>Số 20 Lô E KCN Long Đức</dchiNNT>
+					<phuongXa/>
+					<maHuyenNNT/>
+					<tenHuyenNNT>Trà Vinh</tenHuyenNNT>
+					<maTinhNNT/>
+					<tenTinhNNT>Trà Vinh</tenTinhNNT>
+					<dthoaiNNT>074 3746005</dthoaiNNT>
+					<faxNNT>074 3746006</faxNNT>
+					<emailNNT>Anlactravinh@gmail.com</emailNNT>
+				</NNT>
+			</TTinTKhaiThue>
+		</TTinChung>
+		<CTieuTKhaiChinh>
+			<hoatDongLienTuc>true</hoatDongLienTuc>
+			<hoatDongKhongLienTuc>false</hoatDongKhongLienTuc>
+			<CDKT_HoatDongLienTuc>
+				<donViTinh_ma>VND</donViTinh_ma>
+				<donViTinh_ten>Việt Nam Đồng</donViTinh_ten>
+				<tenNgoaiTe>Việt Nam Đồng</tenNgoaiTe>
+				<tyGiaQuyDoi>0</tyGiaQuyDoi>
+				<SoCuoiNam>
+					<ct100>21218942407</ct100>
+					<ct110>746944366</ct110>
+					<ct111>746944366</ct111>
+					<ct112>0</ct112>
+					<ct120>0</ct120>
+					<ct121>0</ct121>
+					<ct122>0</ct122>
+					<ct123>0</ct123>
+					<ct130>15333740000</ct130>
+					<ct131>14868740000</ct131>
+					<ct132>465000000</ct132>
+					<ct133>0</ct133>
+					<ct134>0</ct134>
+					<ct135>0</ct135>
+					<ct136>0</ct136>
+					<ct137>0</ct137>
+					<ct139>0</ct139>
+					<ct140>5103222903</ct140>
+					<ct141>5103222903</ct141>
+					<ct149>0</ct149>
+					<ct150>35035138</ct150>
+					<ct151>0</ct151>
+					<ct152>35035138</ct152>
+					<ct153>0</ct153>
+					<ct154>0</ct154>
+					<ct155>0</ct155>
+					<ct200>33072930900</ct200>
+					<ct210>0</ct210>
+					<ct211>0</ct211>
+					<ct212>0</ct212>
+					<ct213>0</ct213>
+					<ct214>0</ct214>
+					<ct215>0</ct215>
+					<ct216>0</ct216>
+					<ct219>0</ct219>
+					<ct220>0</ct220>
+					<ct221>0</ct221>
+					<ct222>0</ct222>
+					<ct223>0</ct223>
+					<ct224>0</ct224>
+					<ct225>0</ct225>
+					<ct226>0</ct226>
+					<ct227>0</ct227>
+					<ct228>0</ct228>
+					<ct229>0</ct229>
+					<ct230>0</ct230>
+					<ct231>0</ct231>
+					<ct232>0</ct232>
+					<ct240>33072930900</ct240>
+					<ct241>0</ct241>
+					<ct242>33072930900</ct242>
+					<ct250>0</ct250>
+					<ct251>0</ct251>
+					<ct252>0</ct252>
+					<ct253>0</ct253>
+					<ct254>0</ct254>
+					<ct255>0</ct255>
+					<ct260>0</ct260>
+					<ct261>0</ct261>
+					<ct262>0</ct262>
+					<ct263>0</ct263>
+					<ct268>0</ct268>
+					<ct270>54291873307</ct270>
+					<ct300>50812503651</ct300>
+					<ct310>2789642788</ct310>
+					<ct311>374050573</ct311>
+					<ct312>0</ct312>
+					<ct313>0</ct313>
+					<ct314>205723000</ct314>
+					<ct315>230619215</ct315>
+					<ct316>0</ct316>
+					<ct317>0</ct317>
+					<ct318>0</ct318>
+					<ct319>0</ct319>
+					<ct320>1979250000</ct320>
+					<ct321>0</ct321>
+					<ct322>0</ct322>
+					<ct323>0</ct323>
+					<ct324>0</ct324>
+					<ct330>48022860863</ct330>
+					<ct331>2689051559</ct331>
+					<ct332>0</ct332>
+					<ct333>0</ct333>
+					<ct334>0</ct334>
+					<ct335>0</ct335>
+					<ct336>0</ct336>
+					<ct337>26000000000</ct337>
+					<ct338>19333809304</ct338>
+					<ct339>0</ct339>
+					<ct340>0</ct340>
+					<ct341>0</ct341>
+					<ct342>0</ct342>
+					<ct343>0</ct343>
+					<ct400>3479369656</ct400>
+					<ct410>3479369656</ct410>
+					<ct411>4000000000</ct411>
+					<ct411a>0</ct411a>
+					<ct411b>0</ct411b>
+					<ct412>0</ct412>
+					<ct413>0</ct413>
+					<ct414>0</ct414>
+					<ct415>0</ct415>
+					<ct416>0</ct416>
+					<ct417>0</ct417>
+					<ct418>0</ct418>
+					<ct419>0</ct419>
+					<ct420>0</ct420>
+					<ct421>-520630344</ct421>
+					<ct421a>-583066238</ct421a>
+					<ct421b>62435894</ct421b>
+					<ct422>0</ct422>
+					<ct430>0</ct430>
+					<ct431>0</ct431>
+					<ct432>0</ct432>
+					<ct440>54291873307</ct440>
+				</SoCuoiNam>
+				<SoDauNam>
+					<ct100>7799586460</ct100>
+					<ct110>3036940102</ct110>
+					<ct111>3036940102</ct111>
+					<ct112>0</ct112>
+					<ct120>0</ct120>
+					<ct121>0</ct121>
+					<ct122>0</ct122>
+					<ct123>0</ct123>
+					<ct130>4310031764</ct130>
+					<ct131>0</ct131>
+					<ct132>4310031764</ct132>
+					<ct133>0</ct133>
+					<ct134>0</ct134>
+					<ct135>0</ct135>
+					<ct136>0</ct136>
+					<ct137>0</ct137>
+					<ct139>0</ct139>
+					<ct140>0</ct140>
+					<ct141>0</ct141>
+					<ct149>0</ct149>
+					<ct150>452614594</ct150>
+					<ct151>0</ct151>
+					<ct152>452614594</ct152>
+					<ct153>0</ct153>
+					<ct154>0</ct154>
+					<ct155>0</ct155>
+					<ct200>22599987302</ct200>
+					<ct210>0</ct210>
+					<ct211>0</ct211>
+					<ct212>0</ct212>
+					<ct213>0</ct213>
+					<ct214>0</ct214>
+					<ct215>0</ct215>
+					<ct216>0</ct216>
+					<ct219>0</ct219>
+					<ct220>0</ct220>
+					<ct221>0</ct221>
+					<ct222>0</ct222>
+					<ct223>0</ct223>
+					<ct224>0</ct224>
+					<ct225>0</ct225>
+					<ct226>0</ct226>
+					<ct227>0</ct227>
+					<ct228>0</ct228>
+					<ct229>0</ct229>
+					<ct230>0</ct230>
+					<ct231>0</ct231>
+					<ct232>0</ct232>
+					<ct240>22599987302</ct240>
+					<ct241>0</ct241>
+					<ct242>22599987302</ct242>
+					<ct250>0</ct250>
+					<ct251>0</ct251>
+					<ct252>0</ct252>
+					<ct253>0</ct253>
+					<ct254>0</ct254>
+					<ct255>0</ct255>
+					<ct260>0</ct260>
+					<ct261>0</ct261>
+					<ct262>0</ct262>
+					<ct263>0</ct263>
+					<ct268>0</ct268>
+					<ct270>30399573762</ct270>
+					<ct300>26982640000</ct300>
+					<ct310>5000000000</ct310>
+					<ct311>0</ct311>
+					<ct312>0</ct312>
+					<ct313>0</ct313>
+					<ct314>0</ct314>
+					<ct315>0</ct315>
+					<ct316>0</ct316>
+					<ct317>0</ct317>
+					<ct318>0</ct318>
+					<ct319>5000000000</ct319>
+					<ct320>0</ct320>
+					<ct321>0</ct321>
+					<ct322>0</ct322>
+					<ct323>0</ct323>
+					<ct324>0</ct324>
+					<ct330>21982640000</ct330>
+					<ct331>0</ct331>
+					<ct332>0</ct332>
+					<ct333>0</ct333>
+					<ct334>0</ct334>
+					<ct335>0</ct335>
+					<ct336>0</ct336>
+					<ct337>0</ct337>
+					<ct338>21982640000</ct338>
+					<ct339>0</ct339>
+					<ct340>0</ct340>
+					<ct341>0</ct341>
+					<ct342>0</ct342>
+					<ct343>0</ct343>
+					<ct400>3416933762</ct400>
+					<ct410>3416933762</ct410>
+					<ct411>4000000000</ct411>
+					<ct411a>0</ct411a>
+					<ct411b>0</ct411b>
+					<ct412>0</ct412>
+					<ct413>0</ct413>
+					<ct414>0</ct414>
+					<ct415>0</ct415>
+					<ct416>0</ct416>
+					<ct417>0</ct417>
+					<ct418>0</ct418>
+					<ct419>0</ct419>
+					<ct420>0</ct420>
+					<ct421>-583066238</ct421>
+					<ct421a>-223589505</ct421a>
+					<ct421b>-359476733</ct421b>
+					<ct422>0</ct422>
+					<ct430>0</ct430>
+					<ct431>0</ct431>
+					<ct432>0</ct432>
+					<ct440>30399573762</ct440>
+				</SoDauNam>
+				<nguoiLapBieu/>
+				<keToanTruong/>
+				<ngayLap>2016-12-31</ngayLap>
+				<giamDoc>Nguyễn Thiện Duy</giamDoc>
+				<soChungChiHanhNghe/>
+				<donViCCapDVuKToan/>
+			</CDKT_HoatDongLienTuc>
+		</CTieuTKhaiChinh>
+		<PLuc><PL_KQHDSXKD>
+				<NamNay>
+					<ct01>26298740000</ct01>
+					<ct02>0</ct02>
+					<ct10>26298740000</ct10>
+					<ct11>24096121952</ct11>
+					<ct20>2202618048</ct20>
+					<ct21>20090093</ct21>
+					<ct22>1026743596</ct22>
+					<ct23>1026743596</ct23>
+					<ct25>0</ct25>
+					<ct26>1123308636</ct26>
+					<ct30>72655909</ct30>
+					<ct31>0</ct31>
+					<ct32>10220015</ct32>
+					<ct40>-10220015</ct40>
+					<ct50>62435894</ct50>
+					<ct51>0</ct51>
+					<ct52>0</ct52>
+					<ct60>62435894</ct60>
+					<ct70>0</ct70>
+					<ct71>0</ct71>
+				</NamNay>
+				<NamTruoc>
+					<ct01>0</ct01>
+					<ct02>0</ct02>
+					<ct10>0</ct10>
+					<ct11>0</ct11>
+					<ct20>0</ct20>
+					<ct21>1035028</ct21>
+					<ct22>0</ct22>
+					<ct23>0</ct23>
+					<ct25>0</ct25>
+					<ct26>361411761</ct26>
+					<ct30>-360376733</ct30>
+					<ct31>900000</ct31>
+					<ct32>0</ct32>
+					<ct40>900000</ct40>
+					<ct50>-359476733</ct50>
+					<ct51>0</ct51>
+					<ct52>0</ct52>
+					<ct60>-359476733</ct60>
+					<ct70>0</ct70>
+					<ct71>0</ct71>
+				</NamTruoc>
+				<PhanKy>
+					<nguoiLapBieu/>
+					<keToanTruong/>
+					<ngayLap>2016-12-31</ngayLap>
+					<giamDoc>Nguyễn Thiện Duy</giamDoc>
+				</PhanKy>
+			</PL_KQHDSXKD><PL_LCTTTT>
+				<NamNay>
+					<ct01>11742000000</ct01>
+					<ct02>-27863659901</ct02>
+					<ct03>-1476076304</ct03>
+					<ct04>-1991309816</ct04>
+					<ct05>0</ct05>
+					<ct06>55977834957</ct06>
+					<ct07>-30898517845</ct07>
+					<ct20>5490271091</ct20>
+					<ct21>-4089566131</ct21>
+					<ct22>0</ct22>
+					<ct23>0</ct23>
+					<ct24>0</ct24>
+					<ct25>0</ct25>
+					<ct26>0</ct26>
+					<ct27>0</ct27>
+					<ct30>-4089566131</ct30>
+					<ct31>0</ct31>
+					<ct32>0</ct32>
+					<ct33>3940770000</ct33>
+					<ct34>-7631470696</ct34>
+					<ct35>0</ct35>
+					<ct36>0</ct36>
+					<ct40>-3690700696</ct40>
+					<ct50>-2289995736</ct50>
+					<ct60>3036940102</ct60>
+					<ct61>0</ct61>
+					<ct70>746944366</ct70>
+				</NamNay>
+				<NamTruoc>
+					<ct01>1035028</ct01>
+					<ct02>-196501055</ct02>
+					<ct03>0</ct03>
+					<ct04>-1424777113</ct04>
+					<ct05>0</ct05>
+					<ct06>7095321193</ct06>
+					<ct07>-417076985</ct07>
+					<ct20>5058001068</ct20>
+					<ct21>-19085673693</ct21>
+					<ct22>0</ct22>
+					<ct23>0</ct23>
+					<ct24>0</ct24>
+					<ct25>0</ct25>
+					<ct26>0</ct26>
+					<ct27>0</ct27>
+					<ct30>-19085673693</ct30>
+					<ct31>0</ct31>
+					<ct32>0</ct32>
+					<ct33>14882640000</ct33>
+					<ct34>0</ct34>
+					<ct35>0</ct35>
+					<ct36>0</ct36>
+					<ct40>14882640000</ct40>
+					<ct50>854967375</ct50>
+					<ct60>2181972727</ct60>
+					<ct61>0</ct61>
+					<ct70>3036940102</ct70>
+				</NamTruoc>
+				<PhanKy>
+					<nguoiLapBieu/>
+					<keToanTruong/>
+					<ngayLap>2016-12-31</ngayLap>
+					<giamDoc>Nguyễn Thiện Duy</giamDoc>
+				</PhanKy>
+			</PL_LCTTTT></PLuc>
+	</HSoKhaiThue>
+<CKyDTu><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference URI="#_NODE_TO_SIGN"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>epDafNwtTeM/SzoaxmaMgwBhiVA=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>klC/3lrYY8h8BIWUv8rCELLRlrldGBn5P2h3PESH+6W0tDUBUUCihmD3qUhwi0lcGrShQe+/IdJU
+6GgLKtPtuMO5CVVdoPpuaUILLa+pAqigsC0aPsCZYIbyVaastE2ts7i8cHMnJvjJdH2dOMZiKLHn
+qp5q/F2+2Ku2gboAdXQ=</ds:SignatureValue><ds:KeyInfo><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>t9smzfZJbmsao5YQaD6BpsWmDVpD4yfBXE+Jk7nky+ddHQBihJmk211nQ1Aw87y65bwNdk+0TDV1
+hPdztpj+SUoG7r3DsjB+jtBzetDlSXGgtI8j16GUI2x+SmRwvVHoWYIwo2/NuoxCAY4h5DoVb7Wn
+rpk/5tPZRoQ8cLNHcGM=</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue><ds:X509Data><ds:X509SubjectName>C=VN,ST=TRÀ VINH,L=Trà Vinh,CN=CÔNG TY TNHH HẢI SẢN AN LẠC - TRÀ VINH,UID=MST:2100346855</ds:X509SubjectName><ds:X509Certificate>MIIElzCCA3+gAwIBAgIQVAhefC1B01Y0HBB0Xm2nejANBgkqhkiG9w0BAQUFADBLMQswCQYDVQQG
+EwJWTjEoMCYGA1UEChMfQ29uZyB0eSBjbyBwaGFuIGNodSBreSBzbyBWSSBOQTESMBAGA1UEAxMJ
+U21hcnRTaWduMB4XDTE0MTEwNjAzNTgwMVoXDTE3MTEyNjA4MDIzNlowgY4xHjAcBgoJkiaJk/Is
+ZAEBDA5NU1Q6MjEwMDM0Njg1NTE3MDUGA1UEAwwuQ8OUTkcgVFkgVE5ISCBI4bqiSSBT4bqiTiBB
+TiBM4bqgQyAtIFRSw4AgVklOSDESMBAGA1UEBwwJVHLDoCBWaW5oMRIwEAYDVQQIDAlUUsOAIFZJ
+TkgxCzAJBgNVBAYTAlZOMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC32ybN9kluaxqjlhBo
+PoGmxaYNWkPjJ8FcT4mTueTL510dAGKEmaTbXWdDUDDzvLrlvA12T7RMNXWE93O2mP5JSgbuvcOy
+MH6O0HN60OVJcaC0jyPXoZQjbH5KZHC9UehZgjCjb826jEIBjiHkOhVvtaeumT/m09lGhDxws0dw
+YwIDAQABo4IBtTCCAbEwOAYIKwYBBQUHAQEELDAqMCgGCCsGAQUFBzABhhxodHRwOi8vb2NzcC5z
+bWFydHNpZ24uY29tLnZuMB0GA1UdDgQWBBR02WjWGD2AQEAcV7GEAEYm5MkTmjAMBgNVHRMBAf8E
+AjAAMB8GA1UdIwQYMBaAFGWFqfmJN53jCPgKSTSdrvql7nB0MG0GA1UdIARmMGQwYgYLKwYBBAGB
+7QMBCAMwUzAoBggrBgEFBQcCAjAcHhoAQwBQAFMAIAB2AGUAcgBzAGkAbwBuACAAMTAnBggrBgEF
+BQcCARYbaHR0cDovL3NtYXJ0c2lnbi5jb20udm4vY3BzMH0GA1UdHwR2MHQwcqAfoB2GG2h0dHA6
+Ly9jcmwuc21hcnRzaWduLmNvbS52bqJPpE0wSzESMBAGA1UEAwwJU21hcnRTaWduMSgwJgYDVQQK
+DB9Db25nIHR5IGNvIHBoYW4gY2h1IGt5IHNvIFZJIE5BMQswCQYDVQQGEwJWTjAOBgNVHQ8BAf8E
+BAMCA8gwKQYDVR0lBCIwIAYIKwYBBQUHAwIGCCsGAQUFBwMEBgorBgEEAYI3CgMMMA0GCSqGSIb3
+DQEBBQUAA4IBAQADXiM9oLoNaEA+OzkQaldo/GUXoofRZbX3aeOam9UdWhpdum00nWqNfRLZze0U
+Wu2E8NscOGHYqU6ZPqbZqufLY+jCSq9XiFj+vnSlA+LMc1WcO6cLm7zGjSCOBLL8FUDdfJlERUse
+gg+T/WoeNzTCWcfiaVvpnLQyNSe8JwNR0JMp/zgcoZlyKD98gFTFI/rjh7+iwEd8NEPFWoNkVv+W
+a4PcPqbdJXjLFRd21a2dASf4po87LAXB3bhMCtdVqXpWcna8bh5tIqqS+0b9UgnzJ2zPpmg2H8U7
+QbO58NaCsLJ7Voq/2f30eCKLsu8aLlbfpf0sDUVzqTlo+RBCNL2b</ds:X509Certificate></ds:X509Data></ds:KeyInfo></ds:Signature></CKyDTu></HSoThueDTu>
